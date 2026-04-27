@@ -102,22 +102,7 @@
      
 
 
-{
-      "key": "糯米",
-      "name": "🍚糯米影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-       "jar": "./tw2869.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys",
-        "danmu": true
-      },
-      "timeout": 10
-    },
+
  
         
   {
@@ -189,8 +174,7 @@
 {"key":"农民","name":"👩‍🌾农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/农民影视.json"},
 
 {"key":"csp_Jianpian","name":"🧲荐片影视","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/jianpian.json"},
-{"key":"️爱看Bot","name":"⛅️爱看直连","type": 3,"api":"csp_AweSomeGuard", "jar": "./RinpMUTd.png","searchable":1,"quickSearch":1,"changeable":1,"filterable":1, "ext": {"sp": "Ikanbot"}, "timeout": 10},
-      
+    
  {
             "key": "短剧AI",
             "name": "🆔你的短剧",
