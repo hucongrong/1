@@ -46,6 +46,15 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },        
 {"key":"csp_Guazi","name":"🍉瓜子影视","type":3,"api":"csp_Guazi","jar": "./gua.jar","searchable":1,"changeable":1},
+ {
+            "key": "lovedan",
+            "name": "🥝火锅资源",
+            "type": 1,
+            "api": "https://lovedan.net/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },   
 {"key":"王子4K","name":"🙆王子影视","type":3,"api":"csp_AppGet","jar": "./gua.jar","ext":{"host":"https://app.95112475.xyz","datakey":"5a9w6x58dsq6z3a6"}},
 {
             "key": "wsycj",
