@@ -1,4 +1,3 @@
-
 {
 	"spider": "./Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -15,10 +14,9 @@
             "filterable": 0
         },
         
-
-  {"key":"瓜子","name":"🍉瓜子影视","type": 3,"api":"csp_AweSomeGuard",
-    "jar": "./gua.jar",
-  "searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext": {"sp": "Guazi", "danmu": true}, "timeout": 10},
+{"key":"csp_Guazi","name":"🍉瓜子影视","type":3,"api":"csp_Guazi","jar": "./gua.jar","searchable":1,"changeable":1},
+{"key":"王子4K","name":"🙆王子影视","type":3,"api":"csp_AppGet","jar": "./gua.jar","ext":{"host":"https://app.95112475.xyz","datakey":"5a9w6x58dsq6z3a6"}},
+{"key":"TVB云播","name":"☁️云播影视","type":3,"changeable":0,"api":"csp_Appfox","jar": "./gua.jar","ext":"http://app.hktvyb.cc"},      
 
      
    {
