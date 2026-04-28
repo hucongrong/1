@@ -51,7 +51,7 @@
             "key": "我是瓜子",
             "type": 3,
             "api": "csp_GuaziAmns",
-             "jar": "./lib/bdb.png",
+             "jar": "./lib/bdb.jar",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
