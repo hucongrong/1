@@ -47,8 +47,8 @@
     },        
 {"key":"csp_Guazi","name":"🍉瓜子影视","type":3,"api":"csp_Guazi","jar": "./gua.jar","searchable":1,"changeable":1},
 {
-            "name": "我是瓜子",
-            "key": "🍉瓜子",
+            "name": "🍉瓜子",
+            "key": "我是瓜子",
             "type": 3,
             "api": "csp_GuaziAmns",
              "jar": "./lib/bdb.png",
