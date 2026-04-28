@@ -1,9 +1,12 @@
 {
     "urls": [
-
+ {
+            "url": "https://codeberg.org/huyuting/666666/raw/branch/main/zui.json",
+            "name": "🆔追剧接口"
+      },           
         {
             "url": "https://codeberg.org/huyuting/666666/raw/branch/main/zhui.json",
-            "name": "🆔追剧接口"
+            "name": "🆔综合接口"
       },           
          {
             "url": "https://codeberg.org/huyuting/666666/raw/branch/main/yz.json",
