@@ -70,6 +70,27 @@
       "api": "./apiv357ppx.py",
       "ext": "http://154.94.224.98:8762"
     },
+    {
+      "key": "小苹果",
+      "name": "🍎小苹果影视",
+      "type": 3,
+      "jar": "./xiaosa.jar",
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "./app_xpg_android.txt",
+        "version": "1.0.0.3",
+        "decrypt": "0"
+      }
+    },
 
         {
             "name": "🌿夏天影视",
@@ -101,6 +122,21 @@
       "api": "csp_App3Q",
       "jar": "./XM.jar"
     },
+{
+            "key": "小马影视",
+            "name": "🦄小马影视",
+            "type": 3,
+            "jar": "./xiaosa.jar",
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "./xiaolu.txt",
+                "dataKey": "x5Bep6Q78VCeYnPS",
+                "dataIv": "x5Bep6Q78VCeYnPS",
+                "ua": "okhttp/3.10.0"
+            }
+        },    
  {
       "key": "橘子",
       "name": "🍊橘子视频",
