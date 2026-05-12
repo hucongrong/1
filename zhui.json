@@ -31,6 +31,36 @@
       "jar": "./lib/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
+
+    {
+      "key": "阳光彼岸",
+      "name": "☀️阳光影视",
+      "type": 3,
+      "jar": "./xiaosa.jar",
+      "quickSearch": 1,
+     "api": "csp_AppGet",
+      "ext": {
+        "url": "http://38.246.249.33:30012",
+        "dataKey": "JLa1oRdL6+eK7@M)",
+        "dataIv": "JLa1oRdL6+eK7@M)"
+      }
+    },
+   {
+      "key": "爱影",
+      "name": "🍎爱影影视",
+      "type": 3,
+      "jar": "./xiaosa.jar",
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "./q23.txt",
+        "dataKey": "nzEqOgYk3QzHuEP8",
+        "dataIv": "nzEqOgYk3QzHuEP8",
+        "init": "initV122",
+        "search": "mineInfo",
+        "ua": "okhttp/3.10.0"
+      }
     {
       "key": "三扣",
       "name": "📺山姆4K",
