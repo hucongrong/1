@@ -31,7 +31,7 @@
       "jar": "./lib/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-{ "key": "Ikanbot", "name": "🤖爱看┃机器人", "type": 3, "api": "csp_Ikanbot", 
+{ "key": "Ikanbot", "name": "🤖爱看机器人", "type": 3, "api": "csp_Ikanbot", 
  	"jar": "./lib/pg.jar",	
  "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},    
     {
@@ -142,19 +142,19 @@
         "decrypt": "0"
       }
     },
-
-        {
+{
             "name": "🌿夏天影视",
             "key": "🌿夏天影视",
             "type": 3,
             "api": "csp_NewGrAmns",
-               "jar": "./lib/bdb.jar",
+                 "jar": "./bdb.png",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "2688288565eb2ea7fcb9caa81e70fad5b9a3d290f7e7066e286ddee6884c810ce5bbe0a9ee3dca2a86a21892c506a73db6e9eadf0f102f57a713650b09b20c7ed86ac6d8055809567dcdf7992631b05b07840f7a3aebd4f2f23986e8983432494554f3f700d81de8a2336c3b4a22c07c861a8be0506a3837e08b472a5ceaf61b474c9bc035718044f7e30aa408dab3050d66bc913d83556e06064dac4058a773f679bc3974f31e2e90ba12cb883ca23aa5f9396a4bcb0dcf04bc323b09911b57a011a4bee63e18cfccd39246c42e7a6098605d8dafecfcc331ff9a5e7931223f050cc329eacefe3468eddae1e00f4f214546db11da64b0fdead941acaebc34a71cae62cddff68662b0618e9e7d43a17340cc170cd1f6369fc9121bdbb72508a69c629476b4854ba1ca6a24c5e5b576593fcd718d35390fceeb0b7b839f2ef84597c2210369a354c8a1892fb356001920d62a242a922418be5aae588c6f7910f05a9c190a01d0052e76df67c31dda834c850a05aa"
+            "ext": "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
         },
+       
  {
       "key": "橘子",
       "name": "🍊橘子视频",
@@ -340,17 +340,7 @@
 
 
 
-         {
-            "key": "csp_Ikanbot",
-            "name": "💎玛瑙多线",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "jar": "./lib/Yoursmile.jar",
-            "searchable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
 
 {"key":"天天","name":"⛅天天影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"金牌","name":"🥇金牌影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
