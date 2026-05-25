@@ -31,7 +31,9 @@
       "jar": "./lib/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-
+{ "key": "Ikanbot", "name": "🤖爱看┃机器人", "type": 3, "api": "csp_Ikanbot", 
+ 	"jar": "./lib/pg.jar",	
+ "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},    
     {
       "key": "阳光彼岸",
       "name": "☀️阳光影视",
