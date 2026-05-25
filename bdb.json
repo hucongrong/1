@@ -1,5 +1,5 @@
 {
-    "spider": "./lib/bdb.png",
+    "spider": "./bdb.png",
     "logo": "./logo.gif",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
